@@ -1,4 +1,4 @@
-# IPV6-puska IPV% cim rövidités
+# IPV6-puska IPV6 cim rövidités
 
 1️⃣ Nullák elhagyása a csoport elején
 Egy hexadecimális csoport elején álló nullákat el lehet hagyni.
